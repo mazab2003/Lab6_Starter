@@ -2,5 +2,5 @@
 
 **Name: Mohammed Azab**
 
-**GitHub pages site**
+**GitHub pages site:**
 https://mazab2003.github.io/Lab6_Starter/
